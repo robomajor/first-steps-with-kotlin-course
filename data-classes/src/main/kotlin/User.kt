@@ -1,0 +1,1 @@
+data class User(val name: String, val id: Int)             //Defines a data class with the data modifier.
